@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    text-align: center;
+    }
+h1{
+    font-family: sacramento;
+     margin-top: 0;
+    }
+
+.top-container {
+    padding-top: 100px;
+    position: relative;
+    background-color: rgb(201, 122, 122);
+
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+
+}
+@font-face {
+    font-family: sacramento;
+    src: url();
+}
