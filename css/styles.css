@@ -1,11 +1,23 @@
 body{
     margin: 0;
     text-align: center;
+    font-family: 'Merriweather', serif;
+
     }
 h1{
-    font-family: sacramento;
-     margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    margin-top: 0;
     }
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+
+}
 
 .top-container {
     padding-top: 100px;
@@ -29,8 +41,4 @@ h1{
     top: 50px;
 
 
-}
-@font-face {
-    font-family: sacramento;
-    src: url();
 }
