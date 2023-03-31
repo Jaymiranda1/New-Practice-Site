@@ -7,6 +7,8 @@ body{
 h1{
     font-family: 'Sacramento', cursive;
     margin-top: 0;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto 0;
     }
 
 h2{
@@ -14,16 +16,24 @@ h2{
 
 }
 
-h2{
+h3{
     font-family: 'Montserrat', sans-serif;
-
+    color:#11999E;
+    
 }
 
 .top-container {
     padding-top: 100px;
     position: relative;
     background-color: rgb(201, 122, 122);
+}
 
+.middle-container{
+    background-color: rgb(63, 100, 88);
+}
+
+.bottom-container{
+    background-color: rgb(120, 112, 241);
 }
 .pro{
     text-decoration: underline;
@@ -32,13 +42,29 @@ h2{
     position: absolute;
     left: 300px;
     bottom: 300px;
-
-
 }
 .top-cloud{
     position: absolute;
     right: 300px;
     top: 50px;
+}
+.miata_jay{
+    border-radius: 25%;
+    background-color: black;
 
+}
+.me{
+    width: 400px;
 
+}
+.programmer{
+    font-size: 1.5rem;
+    font-weight: normal;
+    line-height: 2;
+}
+.btn{
+    color: #11999E;
+}
+.footer-link{
+    color: #11999E;
 }
